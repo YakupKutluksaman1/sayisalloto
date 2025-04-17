@@ -113,7 +113,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 **Yakup Kutluksaman** - [GitHub Profili](https://github.com/YakupKutluksaman1)
 
-📧 E-posta: [E-posta adresiniz]
+📧 E-posta: yakup.kutluksaman1mail.com
+
+🔗 LinkedIn: [Yakup Kutluksaman](https://www.linkedin.com/in/yakup-kutluksaman/)
 
 🌐 Proje Linki: [https://github.com/YakupKutluksaman1/sayisalloto](https://github.com/YakupKutluksaman1/sayisalloto)
 
